@@ -8,6 +8,7 @@
 body {
     background: linear-gradient(135deg, #0a1128 0%, #1a237e 50%, #0d1b3e 100%);
     min-height: 100vh;
+    background: url('bg-desktop.webp');
     display: flex;
     justify-content: center;
     align-items: center;
